@@ -95,13 +95,13 @@ background-position: right center;
 
 section#imagem02 {
 background-image: url(../imagens/background002.jpg);
-background-position: top right;
+background-position:  right center;
 
 }
 
 section#imagem03 {
 background-image: url(../imagens/background002.jpg);
-background-position: bottom right;
+background-position: right center;
 }
 
 a:visited {
